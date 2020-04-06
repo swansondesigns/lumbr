@@ -1,0 +1,6 @@
+plugins
+uploads
+index.php
+
+themes/*
+!themes/lumbr-child/
